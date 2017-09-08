@@ -1,2 +1,0 @@
-# samples
-sample documents
